@@ -1,4 +1,4 @@
-root_dir = "."
+# root_dir = "."
 fallback_extensions = ["md"]
 remap = ["kilo-docs/docs kilo-docs/pages"]
 
